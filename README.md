@@ -1,5 +1,4 @@
-# GC9A01-DMA-TFT-STM32-STM32F401-CLOCK
-GC9A01 DMA TFT STM32 STM32F401 CLOCK
+
 
 https://www.youtube.com/watch?v=id6IK4ea0z8
 
